@@ -8,6 +8,9 @@
   🤝 欢迎各位朋友/前辈交流学习心得和技术实践！
 </p>
 
+<!-- 右侧像素小人 + GitHub状态 -->
+<img align="right" src="https://count.getloli.com/get/@july2n?theme=moebooru&scale=1.1" alt="july2n" width="400"/>
+
 
 
 ## 💻 Currently Learning
@@ -22,20 +25,20 @@ CUDA Operator Optimization</strong>
 
 **AI Infrastructure**
 
-![vLLM](https://img.shields.io/badge/-vLLM-FF6B6B?style=for-the-badge)
-![SGLang](https://img.shields.io/badge/-SGLang-7B68EE?style=for-the-badge)
-![TensorRT](https://img.shields.io/badge/-TensorRT-76B900?style=for-the-badge)
-![ONNX](https://img.shields.io/badge/-ONNX-5B5B5B?style=for-the-badge)
+[![vLLM](https://img.shields.io/badge/vLLM-FF6B6B?style=flat-square&logo=dev.to&logoColor=white)](https://docs.vllm.ai/)
+[![SGLang](https://img.shields.io/badge/SGLang-7B68EE?style=flat-square&logo=datadog&logoColor=white)](https://sglang.ai/)
+[![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://developer.nvidia.com/tensorrt)
+[![ONNX](https://img.shields.io/badge/ONNX-5B5B5B?style=flat-square&logo=onnx&logoColor=white)](https://onnx.dev/)
 
 **GPU Kernel**
 
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge)
-![CUTLASS](https://img.shields.io/badge/CUTLASS-76B900?style=for-the-badge)
+[![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
+[![CUTLASS](https://img.shields.io/badge/CUTLASS-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://github.com/NVIDIA/cutlass)
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 
 ## 🚀 Featured Projects
@@ -63,6 +66,16 @@ CUDA Operator Optimization</strong>
 🔗 [View all articles on Zhihu →](https://www.zhihu.com/people/lang-zi-13-92-35/posts)
 
 📝 1000+ zhihu likes, 3000+ saves
+
+
+<!-- GitHub贡献贪吃蛇动画 -->
+<div align="center" style="margin: 20px 0; width: 100%;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/july2n/july2n/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/july2n/july2n/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/july2n/july2n/output/github-contribution-grid-snake.svg" style="width: 100%; border-radius: 8px;">
+  </picture>
+</div>
 
 ---
 
