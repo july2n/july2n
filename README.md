@@ -1,4 +1,4 @@
-## Hi 👋, I'm July2n
+<h1 align="center">Hi 👋, I'm July2n</h1>
 
 <p align="center">
   📚 电子科技大学 硕士 · 📍 四川成都 · 🎯 求职意向：2027届 · AI Infra开发
@@ -9,7 +9,6 @@
 </p>
 
 
----
 
 ## 💻 Currently Learning
 
@@ -18,7 +17,6 @@ CUDA Operator Optimization</strong>
 <em>Deep diving into GPU kernel optimization, Tiling, and CUTLASS programming</em>
 
 
----
 
 ## 🛠️ Tech Stack
 
@@ -31,13 +29,13 @@ CUDA Operator Optimization</strong>
 
 **GPU Kernel**
 
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge)
 ![CUTLASS](https://img.shields.io/badge/CUTLASS-76B900?style=for-the-badge)
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c-plus-plus&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 
 
 ## 🚀 Featured Projects
@@ -65,18 +63,6 @@ CUDA Operator Optimization</strong>
 🔗 [View all articles on Zhihu →](https://www.zhihu.com/people/lang-zi-13-92-35/posts)
 
 📝 1000+ zhihu likes, 3000+ saves
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=july2n&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=july2n&theme=default&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
 
 ---
 
