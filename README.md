@@ -68,14 +68,6 @@ CUDA Operator Optimization</strong>
 📝 1000+ zhihu likes, 3000+ saves
 
 
-<!-- GitHub贡献贪吃蛇动画 -->
-<div align="center" style="margin: 20px 0; width: 100%;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/july2n/july2n/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/july2n/july2n/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/july2n/july2n/output/github-contribution-grid-snake.svg" style="width: 100%; border-radius: 8px;">
-  </picture>
-</div>
 
 ---
 
