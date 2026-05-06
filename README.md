@@ -1,62 +1,55 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/89066859?v=4" width="120" height="120" alt="July2n">
-</p>
+## Hi 👋, I'm July2n
 
-<h1 align="center">July2n</h1>
 <p align="center">
-  <code>LLM Inference Optimization</code> · <code>CUDA Kernel Development</code> · <code>UESTC</code>
+  📚 电子科技大学 硕士 · 📍 四川成都 · 🎯 求职意向：2027届 · AI Infra开发
 </p>
 
 <p align="center">
-  📚 电子科技大学 硕士 · 📍 四川成都 · ✉️ 1344242662@qq.com
+  🤝 欢迎各位朋友/前辈交流学习心得和技术实践！
 </p>
 
-<p align="center">
-  <a href="https://github.com/july2n">
-    <img src="https://img.shields.io/badge/GitHub-july2n-181717?style=flat-square&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.zhihu.com/people/lang-zi-13-92-35/posts">
-    <img src="https://img.shields.io/badge/Zhihu-知乎-blue?style=flat-square&logo=zhihu" alt="Zhihu">
-  </a>
-</p>
 
 ---
 
-## Currently Learning
+## 💻 Currently Learning
 
-<p align="center">
-  🖥️ <strong>CUDA Operator Optimization</strong>
-</p>
-<p align="center">
-  <em>Deep diving into GPU kernel optimization, Tiling, and CUTLASS programming</em>
-</p>
+CUDA Operator Optimization</strong>
+
+<em>Deep diving into GPU kernel optimization, Tiling, and CUTLASS programming</em>
+
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### AI Infrastructure
-![vLLM](https://img.shields.io/badge/-vLLM-FF6B6B?style=flat-square)
-![SGLang](https://img.shields.io/badge/-SGLang-7B68EE?style=flat-square)
-![TensorRT](https://img.shields.io/badge/-TensorRT-76B900?style=flat-square)
-![ONNX](https://img.shields.io/badge/-ONNX-5B5B5B?style=flat-square)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia)
-![CUTLASS](https://img.shields.io/badge/-CUTLASS-76B900?style=flat-square)
+**AI Infrastructure**
+
+![vLLM](https://img.shields.io/badge/-vLLM-FF6B6B?style=for-the-badge)
+![SGLang](https://img.shields.io/badge/-SGLang-7B68EE?style=for-the-badge)
+![TensorRT](https://img.shields.io/badge/-TensorRT-76B900?style=for-the-badge)
+![ONNX](https://img.shields.io/badge/-ONNX-5B5B5B?style=for-the-badge)
+
+**GPU Kernel**
+
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![CUTLASS](https://img.shields.io/badge/CUTLASS-76B900?style=for-the-badge)
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c-plus-plus&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB)
 
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 🚀 CUDA Notes
+### CUDA Notes
 > Open source repository covering CUDA Core, Tensor Core, and CUTLASS
 
 📂 [github.com/july2n/CUDA_Notes](https://github.com/july2n/CUDA_Notes)
 
 **Tech Stack:** `CUDA`  `Tensor Core` `CUTLASS`
 
-**Achievements:**
-- Achieved 95%+ cuBLAS performance on SGEMM operators
+**Achievements:**  Achieved 95%+ cuBLAS performance on SGEMM operators
 
 ## Blog (on Zhihu)
 
