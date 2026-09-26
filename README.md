@@ -50,6 +50,7 @@
 
 ## 📝 Blog on Zhihu
 
+<<<<<<< HEAD
 > Writing about CUDA development and LLM inference optimization.
 
 📄 **[大模型常用分布式并行技术（DP/PP/TP/SP/CP/EP）](https://zhuanlan.zhihu.com/p/2009982344124204434)** — 👁 5.5k views
@@ -60,7 +61,12 @@
 
 🔗 [View all articles on Zhihu →](https://www.zhihu.com/people/lang-zi-13-92-35/posts)
 
+<<<<<<< HEAD
 📝 1,500+ likes · 4,500+ saves on Zhihu
+=======
+📝 1500+ zhihu likes, 4500+ saves
+
+>>>>>>> 37101cf7e1f6ac88892ef72b4a8966137f074be8
 
 ---
 
