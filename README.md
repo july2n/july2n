@@ -60,8 +60,6 @@
 
 🔗 [View all articles on Zhihu →](https://www.zhihu.com/people/lang-zi-13-92-35/posts)
 
-📝 1,500+ likes · 4,500+ saves on Zhihu
-
 ---
 
 <p align="center">
