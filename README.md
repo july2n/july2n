@@ -56,17 +56,16 @@ CUDA Operator Optimization</strong>
 
 > Writing about CUDA development and LLM inference optimization
 
-📄 **[FlashAttention V3 & V4优化思路](https://zhuanlan.zhihu.com/p/2032510402437891223)** — 👁 898 views
+📄 **[大模型常用分布式并行技术（DP/PP/TP/SP/CP/EP](https://zhuanlan.zhihu.com/p/2009982344124204434)** — 👁 5.5k views
 
-📄 **[AI Infra面试常考—FlashAttention系列](https://zhuanlan.zhihu.com/p/2015196808893192187)** — 👁 9.5k views
+📄 **[FlashAttention 原理详解](https://zhuanlan.zhihu.com/p/2015196808893192187)** — 👁 1.5w views
 
-📄 **[AI Infra面试常考——vLLM大模型推理框架](https://zhuanlan.zhihu.com/p/2011083570035319972)** — 👁 6.1k views
+📄 **[vLLM大模型推理框架优化特性](https://zhuanlan.zhihu.com/p/2011083570035319972)** — 👁 1.0w views
 
 
 🔗 [View all articles on Zhihu →](https://www.zhihu.com/people/lang-zi-13-92-35/posts)
 
-📝 1000+ zhihu likes, 3000+ saves
-
+📝 1500+ zhihu likes, 4500+ saves
 
 
 ---
