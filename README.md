@@ -1,25 +1,21 @@
 <h1 align="center">Hi 👋, I'm July2n</h1>
 
 <p align="center">
-  📚 电子科技大学 硕士 · 📍 四川成都 · 🎯 求职意向：2027届 · AI Infra开发
+  📚 电子科技大学硕士 · 📍 四川成都 · 🎯 2027 届求职方向：AI Infra 开发
 </p>
 
 <p align="center">
   🤝 欢迎各位朋友/前辈交流学习心得和技术实践！
 </p>
 
-<!-- 右侧像素小人 + GitHub状态 -->
-<img align="right" src="https://count.getloli.com/get/@july2n?theme=moebooru&scale=1.1" alt="july2n" width="400"/>
+<!-- 右侧访客计数器 -->
+<img align="right" src="https://count.getloli.com/get/@july2n?theme=moebooru&scale=1.1" alt="Profile visitor counter" width="400"/>
 
+## 💻 Currently Working On
 
+<strong>GPU Profiling & AI Systems Optimization</strong>
 
-## 💻 Currently Learning
-
-CUDA Operator Optimization</strong>
-
-<em>Deep diving into GPU kernel optimization, Tiling, and CUTLASS programming</em>
-
-
+<em>Working on GPU profiling, inference frameworks, training performance optimization, and on-device model deployment.</em>
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +26,7 @@ CUDA Operator Optimization</strong>
 [![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://developer.nvidia.com/tensorrt)
 [![ONNX](https://img.shields.io/badge/ONNX-5B5B5B?style=flat-square&logo=onnx&logoColor=white)](https://onnx.dev/)
 
-**GPU Kernel**
+**GPU Kernels**
 
 [![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
 [![CUTLASS](https://img.shields.io/badge/CUTLASS-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://github.com/NVIDIA/cutlass)
@@ -40,34 +36,31 @@ CUDA Operator Optimization</strong>
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
-
 ## 🚀 Featured Projects
 
 ### CUDA Notes
-> Open source repository covering CUDA Core, Tensor Core, and CUTLASS
+
+> An open-source repository covering CUDA cores, Tensor Cores, and CUTLASS.
 
 📂 [github.com/july2n/CUDA_Notes](https://github.com/july2n/CUDA_Notes)
 
-**Tech Stack:** `CUDA`  `Tensor Core` `CUTLASS`
+**Tech Stack:** `CUDA` · `Tensor Cores` · `CUTLASS`
 
-**Achievements:**  Achieved 95%+ cuBLAS performance on SGEMM operators
+**Performance:** SGEMM kernels achieving 95%+ of cuBLAS performance.
 
-## Blog (on Zhihu)
+## 📝 Blog on Zhihu
 
-> Writing about CUDA development and LLM inference optimization
+> Writing about CUDA development and LLM inference optimization.
 
-📄 **[FlashAttention V3 & V4优化思路](https://zhuanlan.zhihu.com/p/2032510402437891223)** — 👁 898 views
+📄 **[大模型常用分布式并行技术（DP/PP/TP/SP/CP/EP）](https://zhuanlan.zhihu.com/p/2009982344124204434)** — 👁 5.5k views
 
-📄 **[AI Infra面试常考—FlashAttention系列](https://zhuanlan.zhihu.com/p/2015196808893192187)** — 👁 9.5k views
+📄 **[FlashAttention 原理详解](https://zhuanlan.zhihu.com/p/2015196808893192187)** — 👁 15k views
 
-📄 **[AI Infra面试常考——vLLM大模型推理框架](https://zhuanlan.zhihu.com/p/2011083570035319972)** — 👁 6.1k views
-
+📄 **[vLLM 大模型推理框架优化特性](https://zhuanlan.zhihu.com/p/2011083570035319972)** — 👁 10k views
 
 🔗 [View all articles on Zhihu →](https://www.zhihu.com/people/lang-zi-13-92-35/posts)
 
-📝 1000+ zhihu likes, 3000+ saves
-
-
+📝 1,500+ likes · 4,500+ saves on Zhihu
 
 ---
 
