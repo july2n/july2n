@@ -45,10 +45,10 @@
 | [Hybrid Model 的框架适配](https://zhuanlan.zhihu.com/p/2088054724482417459)<br /><sub>👁️ 浏览 112 · ⭐ 收藏 13</sub> | [FlashAttention 原理与实现](https://zhuanlan.zhihu.com/p/2015196808893192187)<br /><sub>👁️ 浏览 15,489 · ⭐ 收藏 1,106</sub> |
 | [vLLM ModelRunner V2 执行路径](https://zhuanlan.zhihu.com/p/2087297945079230966)<br /><sub>👁️ 浏览 222 · ⭐ 收藏 29</sub> | [FlashAttention-2 MMA 优化](https://zhuanlan.zhihu.com/p/2030802121566761319)<br /><sub>👁️ 浏览 770 · ⭐ 收藏 85</sub> |
 
-<sub>📊 数据读取于 2026-10-01 · 来源：知乎创作统计 · 手动更新</sub>
+<sub>📊 数据读取于 2026-10-01 </sub>
 
 [更多知乎文章 ↗](https://www.zhihu.com/people/lang-zi-13-92-35/posts)
 
 ---
 
-<p align="center">欢迎交流推理系统与 GPU 优化实践 · <a href="mailto:1344242662@qq.com">1344242662@qq.com</a></p>
+<p align="center">欢迎交流工作和学习机会~ · <a href="mailto:1344242662@qq.com">1344242662@qq.com</a></p>
