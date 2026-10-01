@@ -1,4 +1,4 @@
-<h1 align="center">👋 <samp>July2n</samp></h1>
+<h1 align="center">👋 <samp>Nice to meet you!</samp></h1>
 <p align="center"><strong>AI Infra - 训推优化方向</strong></p>
 <p align="center">🎓 电子科技大学硕士 · 2027 届</p>
 
@@ -10,9 +10,9 @@
 
 ### 🎯 研究与兴趣 · <samp>Focus</samp>
 
-- ⚡ **LLM Inference** — 请求调度、KV / Prefix Cache、CUDA Graph。
-- 🧩 **Hybrid Models** — 混合注意力状态管理、投机解码与推理加速。
-- 🔬 **GPU Kernels** — GEMM / FlashAttention、Tensor Core 与访存优化。
+- **LLM Inference** — 请求调度、KV / Prefix Cache、CUDA Graph。
+- **Hybrid Models** — 混合注意力状态管理、投机解码与推理加速。
+- **GPU Kernels** — GEMM / FlashAttention、Tensor Core 与访存优化。
 
 ### 🛠️ 专业技能 · <samp>Toolkit</samp>
 
@@ -24,8 +24,6 @@
   <img src="https://img.shields.io/badge/Triton-FF3860?style=flat-square" alt="Triton" />
   <img src="https://img.shields.io/badge/CUTLASS_%2F_CuTe-7957D5?style=flat-square" alt="CUTLASS / CuTe" />
 </p>
-
-源码学习：**vLLM · SGLang · DeepSpeed**；
 
 ### 🚀 项目实践 · <samp>Projects</samp>
 
@@ -51,4 +49,4 @@
 
 ---
 
-<p align="center">欢迎交流工作和学习机会~ · <a href="mailto:1344242662@qq.com">1344242662@qq.com</a></p>
+<p align="center">欢迎交流工作和学习机会~  <a href="mailto:1344242662@qq.com">1344242662@qq.com</a></p>
