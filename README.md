@@ -1,4 +1,4 @@
-<h1 align="center">July2n</h1>
+<h1 align="center"><samp>July2n</samp></h1>
 <p align="center"><strong>聚焦大模型推理系统与 GPU 算子优化</strong></p>
 <p align="center">电子科技大学硕士 · 2027 届 · 成都</p>
 
@@ -8,13 +8,13 @@
   <img src="https://img.shields.io/badge/2027届-AI_Infra-7957D5?style=flat-square" alt="2027 届 · AI Infra 开发方向" />
 </p>
 
-### 研究与兴趣 · Focus
+### 研究与兴趣 · <samp>Focus</samp>
 
 - **LLM Inference** — 请求调度、KV / Prefix Cache、CUDA Graph。
 - **Hybrid Models** — 混合注意力状态管理、投机解码与推理加速。
 - **GPU Kernels** — GEMM / FlashAttention、Tensor Core 与访存优化。
 
-### 专业技能 · Toolkit
+### 专业技能 · <samp>Toolkit</samp>
 
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-7957D5?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
@@ -27,7 +27,7 @@
 
 源码学习：**vLLM · SGLang · DeepSpeed**；结合 Benchmark 与数值对照验证实践。
 
-### 项目实践 · Projects
+### 项目实践 · <samp>Projects</samp>
 
 <p>
   <a href="https://github.com/july2n/HybridInfer"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=july2n&repo=HybridInfer&theme=buefy&description_lines_count=1" alt="HybridInfer：混合注意力 LLM 推理引擎" /></a>
@@ -38,7 +38,7 @@
   <a href="https://github.com/july2n/Mini_nanotron"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=july2n&repo=Mini_nanotron&theme=buefy&description_lines_count=1" alt="Mini Nanotron：DP / TP 与 PP 层切分的教学实现" /></a>
 </p>
 
-### 技术写作 · Writing
+### 技术写作 · <samp>Writing</samp>
 
 | 推理系统 | GPU 算子 |
 | :--- | :--- |
