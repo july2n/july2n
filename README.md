@@ -3,9 +3,9 @@
 <p align="center">🎓 电子科技大学硕士 · 2027 届</p>
 
 <p align="center">
-  <a href="https://www.zhihu.com/people/lang-zi-13-92-35/posts"><img src="https://img.shields.io/badge/知乎-技术笔记-7957D5?style=flat-square&logo=zhihu&logoColor=white" alt="知乎技术笔记" /></a>
-  <a href="mailto:1344242662@qq.com"><img src="https://img.shields.io/badge/Email-联系我-FF3860?style=flat-square&logo=gmail&logoColor=white" alt="Email: 1344242662@qq.com" /></a>
-  <img src="https://img.shields.io/badge/2027届-AI_Infra-7957D5?style=flat-square" alt="2027 届 · AI Infra 开发方向" />
+  <a href="https://www.zhihu.com/people/lang-zi-13-92-35/posts"><img src="https://img.shields.io/badge/知乎-技术笔记-4F46E5?style=flat-square&labelColor=4F46E5&logo=zhihu&logoColor=white" alt="知乎技术笔记" /></a>
+  <a href="mailto:1344242662@qq.com"><img src="https://img.shields.io/badge/Email-联系我-8B5CF6?style=flat-square&labelColor=4F46E5&logo=gmail&logoColor=white" alt="Email: 1344242662@qq.com" /></a>
+  <img src="https://img.shields.io/badge/2027届-AI_Infra-8B5CF6?style=flat-square&labelColor=4F46E5" alt="2027 届 · AI Infra 开发方向" />
 </p>
 
 ### 🎯 研究与兴趣 · <samp>Focus</samp>
@@ -16,24 +16,25 @@
 
 ### 🛠️ 专业技能 · <samp>Toolkit</samp>
 
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-7957D5?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-7957D5?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-FF3860?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/CUDA-7957D5?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
-  <img src="https://img.shields.io/badge/Triton-FF3860?style=flat-square" alt="Triton" />
-  <img src="https://img.shields.io/badge/CUTLASS_%2F_CuTe-7957D5?style=flat-square" alt="CUTLASS / CuTe" />
-</p>
+| 领域 | 技术与实践 |
+| :--- | :--- |
+| **语言与工具** | <img src="https://img.shields.io/badge/C%2B%2B-4F46E5?style=flat-square&logoColor=white&logo=cplusplus" alt="C++" /> <img src="https://img.shields.io/badge/Python-4F46E5?style=flat-square&logoColor=white&logo=python" alt="Python" /> <img src="https://img.shields.io/badge/Linux-4F46E5?style=flat-square&logoColor=white&logo=linux" alt="Linux" /> <img src="https://img.shields.io/badge/Git-4F46E5?style=flat-square&logoColor=white&logo=git" alt="Git" /> <img src="https://img.shields.io/badge/CMake-4F46E5?style=flat-square&logoColor=white&logo=cmake" alt="CMake" /> |
+| **GPU 算子** | <img src="https://img.shields.io/badge/CUDA-4F46E5?style=flat-square&logoColor=white&logo=nvidia" alt="CUDA" /> <img src="https://img.shields.io/badge/Triton-4F46E5?style=flat-square&logoColor=white" alt="Triton" /> <img src="https://img.shields.io/badge/Tensor%20Core-4F46E5?style=flat-square&logoColor=white" alt="Tensor Core" /> <img src="https://img.shields.io/badge/CUTLASS-4F46E5?style=flat-square&logoColor=white" alt="CUTLASS" /> <img src="https://img.shields.io/badge/CuTe-4F46E5?style=flat-square&logoColor=white" alt="CuTe" /> |
+| **模型与推理** | <img src="https://img.shields.io/badge/PyTorch-4F46E5?style=flat-square&logoColor=white&logo=pytorch" alt="PyTorch" /> <img src="https://img.shields.io/badge/FlashInfer-4F46E5?style=flat-square&logoColor=white" alt="FlashInfer" /> <img src="https://img.shields.io/badge/vLLM-4F46E5?style=flat-square&logoColor=white" alt="vLLM" /> <img src="https://img.shields.io/badge/SGLang-4F46E5?style=flat-square&logoColor=white" alt="SGLang" /> |
+| **分布式训练** | <img src="https://img.shields.io/badge/PyTorch%20Distributed-4F46E5?style=flat-square&logoColor=white" alt="PyTorch Distributed" /> <img src="https://img.shields.io/badge/NCCL-4F46E5?style=flat-square&logoColor=white&logo=nvidia" alt="NCCL" /> <img src="https://img.shields.io/badge/DeepSpeed-4F46E5?style=flat-square&logoColor=white" alt="DeepSpeed" /> |
+| **性能优化** | <img src="https://img.shields.io/badge/CUDA%20Graph-4F46E5?style=flat-square&logoColor=white" alt="CUDA Graph" /> <img src="https://img.shields.io/badge/Benchmark-4F46E5?style=flat-square&logoColor=white" alt="Benchmark" /> <img src="https://img.shields.io/badge/%E6%95%B0%E5%80%BC%E6%AD%A3%E7%A1%AE%E6%80%A7%E9%AA%8C%E8%AF%81-4F46E5?style=flat-square&logoColor=white" alt="数值正确性验证" /> |
+
+<sub>vLLM、SGLang、DeepSpeed：框架机制与源码学习。</sub>
 
 ### 🚀 项目实践 · <samp>Projects</samp>
 
 <p>
-  <a href="https://github.com/july2n/HybridInfer"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=july2n&repo=HybridInfer&theme=buefy&description_lines_count=1" alt="HybridInfer：混合注意力 LLM 推理引擎" /></a>
-  <a href="https://github.com/july2n/flash-attention-ampere-lab"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=july2n&repo=flash-attention-ampere-lab&theme=buefy&description_lines_count=1" alt="FlashAttention Ampere Lab：CUDA 算子优化实践" /></a>
+  <a href="https://github.com/july2n/HybridInfer"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=july2n&repo=HybridInfer&title_color=4F46E5&icon_color=8B5CF6&text_color=475569&bg_color=FFFFFF&border_color=E2E8F0&description_lines_count=1" alt="HybridInfer：混合注意力 LLM 推理引擎" /></a>
+  <a href="https://github.com/july2n/flash-attention-ampere-lab"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=july2n&repo=flash-attention-ampere-lab&title_color=4F46E5&icon_color=8B5CF6&text_color=475569&bg_color=FFFFFF&border_color=E2E8F0&description_lines_count=1" alt="FlashAttention Ampere Lab：CUDA 算子优化实践" /></a>
 </p>
 <p>
-  <a href="https://github.com/july2n/CUDA_Notes"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=july2n&repo=CUDA_Notes&theme=buefy&description_lines_count=1" alt="CUDA Notes：CUDA、Tensor Core 与 CUTLASS / CuTe 学习笔记" /></a>
-  <a href="https://github.com/july2n/Mini_nanotron"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=july2n&repo=Mini_nanotron&theme=buefy&description_lines_count=1" alt="Mini Nanotron：DP / TP 与 PP 层切分的教学实现" /></a>
+  <a href="https://github.com/july2n/CUDA_Notes"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=july2n&repo=CUDA_Notes&title_color=4F46E5&icon_color=8B5CF6&text_color=475569&bg_color=FFFFFF&border_color=E2E8F0&description_lines_count=1" alt="CUDA Notes：CUDA、Tensor Core 与 CUTLASS / CuTe 学习笔记" /></a>
+  <a href="https://github.com/july2n/Mini_nanotron"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=july2n&repo=Mini_nanotron&title_color=4F46E5&icon_color=8B5CF6&text_color=475569&bg_color=FFFFFF&border_color=E2E8F0&description_lines_count=1" alt="Mini Nanotron：DP / TP 与 PP 层切分的教学实现" /></a>
 </p>
 
 ### 📝 技术写作 · <samp>Writing</samp>
