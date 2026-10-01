@@ -1,6 +1,6 @@
 <h1 align="center"><samp>July2n</samp></h1>
-<p align="center"><strong>聚焦大模型推理系统与 GPU 算子优化</strong></p>
-<p align="center">电子科技大学硕士 · 2027 届 · 成都</p>
+<p align="center"><strong>AI Infra - 训推优化方向</strong></p>
+<p align="center">电子科技大学硕士 · 2027 届 </p>
 
 <p align="center">
   <a href="https://www.zhihu.com/people/lang-zi-13-92-35/posts"><img src="https://img.shields.io/badge/知乎-技术笔记-7957D5?style=flat-square&logo=zhihu&logoColor=white" alt="知乎技术笔记" /></a>
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/CUTLASS_%2F_CuTe-7957D5?style=flat-square" alt="CUTLASS / CuTe" />
 </p>
 
-源码学习：**vLLM · SGLang · DeepSpeed**；结合 Benchmark 与数值对照验证实践。
+源码学习：**vLLM · SGLang · DeepSpeed**；
 
 ### 项目实践 · <samp>Projects</samp>
 
