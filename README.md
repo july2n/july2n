@@ -10,8 +10,8 @@
 
 ### 🎯 研究与兴趣 · <samp>Focus</samp>
 
-- **LLM Inference** — 请求调度、KV / Prefix Cache、CUDA Graph。
-- **Hybrid Models** — 混合注意力状态管理、投机解码与推理加速。
+- **LLM Inference** — 请求调度、KV / Prefix Cache、CUDA Graph、投机采样。
+- **Edge Deployment** — 大模型端侧部署、量化压缩、推理引擎适配与性能优化。
 - **GPU Kernels** — GEMM / FlashAttention、Tensor Core 与访存优化。
 
 ### 🛠️ Languages and Tools:
