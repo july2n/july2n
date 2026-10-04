@@ -1,5 +1,5 @@
 <h1 align="center">👋 <samp>Nice to meet you!</samp></h1>
-<p align="center"><strong>AI Infra · 训推优化方向</strong></p>
+<p align="center"><strong>AI Infra · 推理加速方向</strong></p>
 <p align="center">🎓 电子科技大学硕士 · 2027 届</p>
 
 <p align="center">
